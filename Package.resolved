@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "storyboardrute_lib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sreynin/StoryboardRute_Lib.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5cc949bf3195f17103bc5081a25c3dc35ddc4bd4"
+      }
+    }
+  ],
+  "version" : 2
+}
